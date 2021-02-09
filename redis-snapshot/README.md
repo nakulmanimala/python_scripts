@@ -1,3 +1,5 @@
+# REDIS STOP START SCHEDULER
+
 Need to change only in config.py file.
 Allowed commands are,
 python3 main.py --action stop
