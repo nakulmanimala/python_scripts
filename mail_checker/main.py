@@ -8,8 +8,8 @@ import os
 
 def main():
     # account credentials
-    username = "nakulthythottathil@gmail.com"
-    password = "Coppermine123*"
+    username = "xxxxxxxxxxx@gmail.com"
+    password = "xxxxxxxxxx"
     # create an IMAP4 class with SSL 
     imap = imaplib.IMAP4_SSL("imap.gmail.com")
     # authenticate
